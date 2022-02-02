@@ -37,5 +37,6 @@
 
 <a href="https://ibb.co/7yqVvJk"><img src="https://i.ibb.co/2KTPq7Z/Reference.png" alt="Reference" border="0"></a>
             
-### Now the Device will work at Counter 51
+#### Now the Device will work at Counter 51
 
+### Any Device for a corresponding counter# can be set up this way
