@@ -1,6 +1,6 @@
 # Qmatic-Expressia-Device-Config-Chart
 
-## A binary configuration Chart for Qmatic Expressia Feedback Devices
+## A binary configuration Chart for Qmatic Expressia Feedback Devices (Open within Excel/Spreadsheet Application)
 
 ### The Chart is pretty self explanatory but there is one thing you need to keep in mind
 
